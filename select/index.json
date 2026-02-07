@@ -1,88 +1,48 @@
 {
   "version": 1,
-  "base_track": "パラソルサイダー / 初音ミク - ナナホシ管弦楽団",
+  "base_track": "パラソルサイダー（feat. 初音ミク）",
   "base_artist": "ナナホシ管弦楽団",
-  "createdAt": "2026-02-07T08:54:32.119948Z",
+  "createdAt": "2026-02-07T08:55:20.585998Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "パラソルサイダー",
-      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ",
+      "title": "パラソルサイダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP!",
       "has_synced": true,
-      "path": "select/01_パラソルサイダー_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ.lrc"
+      "path": "select/01_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "パラソルサイダー",
-      "artist": "MORE MORE JUMP!",
+      "title": "パラソルサイダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "artist": "MORE MORE JUMP！;巡音ルカ",
       "has_synced": true,
-      "path": "select/02_パラソルサイダー_MORE_MORE_JUMP!.lrc"
+      "path": "select/02_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!;巡音ルカ.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "パラソルサイダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
+      "title": "パラソルサイダー (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 &...",
       "artist": "MORE MORE JUMP!",
       "has_synced": true,
-      "path": "select/03_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
+      "path": "select/03_パラソルサイダー_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "パラソルサイダー (instrumental)",
-      "artist": "MORE MORE JUMP!",
-      "has_synced": true,
-      "path": "select/04_パラソルサイダー_(instrumental)_MORE_MORE_JUMP!.lrc"
-    },
-    {
-      "id": "lrclib_5",
-      "source": "lrclib",
-      "title": "パラソルサイダー - Parasol Cider (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
-      "artist": "MORE MORE JUMP!",
-      "has_synced": true,
-      "path": "select/05_パラソルサイダー_-_Parasol_Cider_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "パラソルサイダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
-      "artist": "MORE MORE JUMP！;巡音ルカ",
-      "has_synced": true,
-      "path": "select/06_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!;巡音ルカ.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "パラソルサイダー (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 &...",
-      "artist": "MORE MORE JUMP!",
-      "has_synced": true,
-      "path": "select/07_パラソルサイダー_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&..._MORE_MORE_JUMP!.lrc"
-    },
-    {
-      "id": "lrclib_8",
-      "source": "lrclib",
       "title": "パラソルサイダー (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)",
       "artist": "MORE MORE JUMP！",
       "has_synced": true,
-      "path": "select/08_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
-    },
-    {
-      "id": "lrclib_9",
-      "source": "lrclib",
-      "title": "プロジェクトセカイ COLORFUL LIVE 3rd - Evolve - (MORE MORE JUMP! - パラソルサイダー)",
-      "artist": "주영쒸",
-      "has_synced": true,
-      "path": "select/09_プロジェクトセカイ_COLORFUL_LIVE_3rd_-_Evolve_-_(MORE_MORE_JUMP!_-_パラソルサイダー)_주영쒸.lrc"
+      "path": "select/04_パラソルサイダー_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&巡音ルカ)_MORE_MORE_JUMP!.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "パラソルサイダー",
-      "artist": "ナナホシ管弦楽団, 初音ミク",
+      "title": "パラソルサイダー (feat. 初音ミク)",
+      "artist": "ナナホシ管弦楽団",
       "has_synced": false,
-      "path": "select/pl_01_パラソルサイダー_ナナホシ管弦楽団,_初音ミク.txt"
+      "path": "select/pl_01_パラソルサイダー_(feat._初音ミク)_ナナホシ管弦楽団.txt"
     }
   ]
 }
